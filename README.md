@@ -1,16 +1,24 @@
-### Hi there 👋
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" />, I'm Aakarsh Anubhav</h1>
+<h5 align="center">
+    A 3rd year student pursuing Bachelors in Computer Science and Information Technology, from CGU Bhubaneswar. I am a frontend developer, I code in C++ and Python.
+</h5>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aakarsh08&label=PROFILE+VIEWS" alt="aakarsh08" /> </p>
+<p>
+    <a align="center" href="https://github.com/aakarsh08">
+        <img alt="stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=aakarsh08&theme=radical">
+        <img align="right" height="350" width="400" src="https://c.tenor.com/fXqayT39F1IAAAAd/anvil-code.gif" /> </a>
+</p>
+<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=aakarsh08&count_private=true&theme=radical&show_icons=true" />
 
-<!--
-**Aakarshhhh/Aakarshhhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+    <a href="https://twitter.com/aakarsh_anubhav" target="blank"><img src="https://img.shields.io/twitter/follow/aakarsh_anubhav?logo=twitter&style=for-the-badge" alt="aakarsh_anubhav" /></a></p>
+     📫 How to reach me **aakarsh.anubhav01@gmail.com**
+<br><br>
+<hr>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center"> Connect with me:</h3>
+<p align="center">
+    <a href="https://twitter.com/aakarsh_anubhav" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="aakarsh_anubhav" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/aakarsh-a-8643a2a5/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="aakarsh_anubhav" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.instagram.com/a.a.k.a.r.s.h/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="a.a.k.a.r.s.h" height="50" width="50" /></a>
+</p>
