@@ -12,7 +12,8 @@
 
 <p align="left">
     <a href="https://twitter.com/aakarsh_anubhav" target="blank"><img src="https://img.shields.io/twitter/follow/aakarsh_anubhav?logo=twitter&style=for-the-badge" alt="aakarsh_anubhav" /></a></p>
-     📫 How to reach me **aakarsh.anubhav01@gmail.com**
+ 
+- 📫 How to reach me **aakarsh.anubhav01@gmail.com**
 <br><br>
 <hr>
 
