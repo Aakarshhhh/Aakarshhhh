@@ -11,7 +11,7 @@
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=Aakarshhhh&count_private=true&theme=radical&show_icons=true" />
 
 <p align="left">
-    <a href="https://twitter.com/aakarsh_anubhav" target="blank"><img src="https://img.shields.io/twitter/follow/aakarsh_anubhav?logo=twitter&style=for-the-badge" alt="aakarsh_anubhav" /></a></p>
+    <a href="https://twitter.com/aakarsh_anubhav" target="blank"> <img src="https://img.shields.io/twitter/follow/aakarsh_anubhav?logo=twitter&style=for-the-badge" alt="aakarsh_anubhav" /></a></p>
  
 - 📫 How to reach me **aakarsh.anubhav01@gmail.com**
 <br><br>
@@ -19,7 +19,7 @@
 
 <h3 align="center"> Connect with me:</h3>
 <p align="center">
-    <a href="https://twitter.com/aakarsh_anubhav" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="aakarsh_anubhav" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/aakarsh-a-8643a2a5/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="aakarsh_anubhav" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.instagram.com/a.a.k.a.r.s.h/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="a.a.k.a.r.s.h" height="50" width="50" /></a>
+    <a href="https://twitter.com/aakarsh_anubhav" target="blank"> <img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="aakarsh_anubhav" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/aakarsh-a-8643a2a5/" target="blank"> <img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="aakarsh_anubhav" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.instagram.com/a.a.k.a.r.s.h/" target="blank"> <img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="a.a.k.a.r.s.h" height="50" width="50" /></a>
 </p>
