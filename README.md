@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" />, I'm Aakarsh Anubhav</h1>
 <h5 align="center">
-    A 3rd year student pursuing Bachelors in Computer Science and Information Technology, from CGU Bhubaneswar. I am a frontend developer, I code in C++ and Python.
+    A 4th year student pursuing Bachelors in Computer Science and Information Technology, from CGU Bhubaneswar. I am a full stack MERN developer, I code in C++ and Python.
 </h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Aakarshhhh&label=PROFILE+VIEWS" alt="Aakarshhhh" /> </p>
 <p>
