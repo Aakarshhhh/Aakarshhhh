@@ -21,5 +21,5 @@
 <p align="center">
     <a href="https://twitter.com/aakarsh_anubhav" target="blank"> <img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="aakarsh_anubhav" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/aakarsh-a-8643a2a5/" target="blank"> <img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="aakarsh_anubhav" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.instagram.com/a.a.k.a.r.s.h/" target="blank"> <img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="a.a.k.a.r.s.h" height="50" width="50" /></a>
+    <a href="https://www.instagram.com/__starfreak__/" target="blank"> <img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="__starfreak__" height="50" width="50" /></a>
 </p>
